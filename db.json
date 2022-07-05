@@ -1,0 +1,54 @@
+{
+  "topdestinations": [
+    {
+      "id": 1,
+      "title": "Cairns & the Tropical North",
+      "image": "./images/top-destinations/cairns.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Airlie Beach",
+      "image": "./images/top-destinations/airliebeach.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Adeliade",
+      "image": "./images/top-destinations/adelaide.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Perth",
+      "image": "./images/top-destinations/perth.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Brisbane",
+      "image": "./images/top-destinations/brisbane.png"
+    },
+    {
+      "id": 6,
+      "title": "Darwin",
+      "image": "./images/top-destinations/darwin.webp"
+    },
+    {
+      "id": 7,
+      "title": "Sydney",
+      "image": "./images/top-destinations/sydney.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Hobart",
+      "image": "./images/top-destinations/hobart.png"
+    },
+    {
+      "id": 9,
+      "title": "Melbourne",
+      "image": "./images/top-destinations/melbourne.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Gold Coast",
+      "image": "./images/top-destinations/goldcoast.jpg"
+    }
+  ]
+}
