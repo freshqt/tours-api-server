@@ -52,60 +52,61 @@
         "image": "./images/top-destinations/goldcoast.jpg"
       }
     ],
-  "topattractions": [
-    {
-      "id": 1,
-      "image": "./images/top-attractions/greatbarrierreef.webp",
-      "title": "Great Barrier Reef",
-      "tours": "58 Tours and Activities",
-    },
-    {
-      "id": 2,
-      "image": "./images/top-attractions/eiffel-tower.jpg",
-      "title": "Eiffel Tower",
-      "tours": "413 Tours and Activities",
-    },
-    {
-      "id": 3,
-      "image": "./images/top-attractions/mt-fuji.jpg",
-      "title": "Mt. Fuji",
-      "tours": "12 Tours and Activities",
-    },
-    {
-      "id": 4,
-      "image": "./images/top-attractions/whitehaven-beach.jpg",
-      "title": "Whitehaven Beach",
-      "tours": "44 Tours and Activities",
-    },
-    {
-      "id": 5,
-      "image": "./images/top-attractions/phiphiislands.webp",
-      "title": "Phi Phi Islands",
-      "tours": "131 Tours and Activities",
-    },
-    {
-      "id": 6,
-      "image": "./images/top-attractions/hawaii-volcanoes-national-park.webp",
-      "title": "Hawaii Volcanoes <br> Nation Park",
-      "tours": "39 Tours and Activities",
-    },
-    {
-      "id": 7,
-      "image": "./images/top-attractions/colosseum.jpg",
-      "title": "Colosseum",
-      "tours": "1,852 Tours and Activities",
-    },
-    {
-      "id": 8,
-      "image": "./images/top-attractions/stonehedge.webp",
-      "title": "Stonehedge",
-      "tours": "206 Tours and Activities",
-    },
-    {
-      "id": 9,
-      "image": "./images/top-attractions/niagarafalls.jpg",
-      "title": "Niagara Falls",
-      "tours": "48 Tours and Activities",
-    }
-  ]
+    "topattractions": [
+      {
+        "id": 1,
+        "image": "./images/top-attractions/greatbarrierreef.webp",
+        "title": "Great Barrier Reef",
+        "tours": "58 Tours and Activities"
+      },
+      {
+        "id": 2,
+        "image": "./images/top-attractions/eiffel-tower.jpg",
+        "title": "Eiffel Tower",
+        "tours": "413 Tours and Activities"
+      },
+      {
+        "id": 3,
+        "image": "./images/top-attractions/mt-fuji.jpg",
+        "title": "Mt. Fuji",
+        "tours": "12 Tours and Activities"
+      },
+      {
+        "id": 4,
+        "image": "./images/top-attractions/whitehaven-beach.jpg",
+        "title": "Whitehaven Beach",
+        "tours": "44 Tours and Activities"
+      },
+      {
+        "id": 5,
+        "image": "./images/top-attractions/phiphiislands.webp",
+        "title": "Phi Phi Islands",
+        "tours": "131 Tours and Activities"
+      },
+      {
+        "id": 6,
+        "image": "./images/top-attractions/hawaii-volcanoes-national-park.webp",
+        "title": "Hawaii Volcanoes <br> Nation Park",
+        "tours": "39 Tours and Activities"
+      },
+      {
+        "id": 7,
+        "image": "./images/top-attractions/colosseum.jpg",
+        "title": "Colosseum",
+        "tours": "1,852 Tours and Activities"
+      },
+      {
+        "id": 8,
+        "image": "./images/top-attractions/stonehedge.webp",
+        "title": "Stonehedge",
+        "tours": "206 Tours and Activities"
+      },
+      {
+        "id": 9,
+        "image": "./images/top-attractions/niagarafalls.jpg",
+        "title": "Niagara Falls",
+        "tours": "48 Tours and Activities"
+      }
+    ]
+  }
 }
