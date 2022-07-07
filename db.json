@@ -153,6 +153,44 @@
         "price": "129,00",
         "rating": "224"
       }
+    ],
+    "warmdestinations": [
+      {
+        "id": 1,
+        "image": "./images/warm-destinations/riodejaniro.jpg",
+        "title": "Rio De Janiro",
+        "tours": "1,124 Tours"
+      },
+      {
+        "id": 2,
+        "image": "./images/warm-destinations/bali.webp",
+        "title": "Bali",
+        "tours": "5,484 Tours"
+      },
+      {
+        "id": 3,
+        "image": "./images/warm-destinations/cancun.jpg",
+        "title": "Cancun",
+        "tours": "3,165 Tours"
+      },
+      {
+        "id": 4,
+        "image": "./images/warm-destinations/miami.jpg",
+        "title": "Miami",
+        "tours": "612 Tours"
+      },
+      {
+        "id": 5,
+        "image": "./images/warm-destinations/siemreap.jpg",
+        "title": "Siem Reap",
+        "tours": "1,739 Tours"
+      },
+      {
+        "id": 6,
+        "image": "./images/warm-destinations/puntacana.jpg",
+        "title": "Punta Cana",
+        "tours": "1,442 Tours"
+      }
     ]
   }
 }
