@@ -107,6 +107,52 @@
         "title": "Niagara Falls",
         "tours": "48 Tours and Activities"
       }
+    ],
+    "toptours": [
+      {
+        "id": 1,
+        "image": "./images/top-tours/harrypottertour.jpg",
+        "banner": "Likely To Sell Out",
+        "wishlist": "./images/top-tours/wishlistheart.svg",
+        "locationimg": "./images/top-tours/globe.svg",
+        "location": "London, England",
+        "title": "Harry Potter Tour of Warner Bros. Studio with Transport from London",
+        "price": "$164.54",
+        "rating": "1,781"
+      },
+      {
+        "id": 2,
+        "image": "./images/top-tours/uluru.webp",
+        "banner": "Likely To Sell Out",
+        "wishlist": "./images/top-tours/wishlistheart.svg",
+        "locationimg": "./images/top-tours/globe.svg",
+        "location": "Uluru, Northern Territory",
+        "title": "Uluru (Ayers Rock) Sunset with Outback Barbecue Dinner and Star Tour",
+        "price": "229,00",
+        "rating": "210"
+      },
+      {
+        "id": 3,
+        "image": "./images/top-tours/spiritofmelbourne.jpg",
+        "banner": "Likely To Sell Out",
+        "wishlist": "./images/top-tours/wishlistheart.svg",
+        "locationimg": "./images/top-tours/globe.svg",
+        "location": "Melbourne, Victoria",
+        "title": "Spirit of Melbourne Dinner Cruise",
+        "price": "155,00",
+        "rating": "785"
+      },
+      {
+        "id": 4,
+        "image": "./images/top-tours/rottnest.jpg",
+        "banner": "Likely To Sell Out",
+        "wishlist": "./images/top-tours/wishlistheart.svg",
+        "locationimg": "./images/top-tours/globe.svg",
+        "location": "Perth, Western Australia",
+        "title": "Discover Rottnest with Ferry & Bus Tour from Perth or Fremantle",
+        "price": "129,00",
+        "rating": "224"
+      }
     ]
   }
 }
